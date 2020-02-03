@@ -43,7 +43,7 @@ export const reducer = createReducer(INITIAL_STATE, {
 
 
 
-
+/*
 const toggle = (state = INITIAL_STATE, action) =>
   state.map(
     todo =>
@@ -52,3 +52,4 @@ const toggle = (state = INITIAL_STATE, action) =>
 
 const remove = (state = INITIAL_STATE, action) =>
   state.filter(todo => todo.id !== action.id);
+  */

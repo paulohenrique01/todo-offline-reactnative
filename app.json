@@ -22,9 +22,13 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
+    ],    
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true     
+    },
+    "android": {
+      "package": "com.test.todooffline",
+      "versionCode": 1
     }
   }
 }
